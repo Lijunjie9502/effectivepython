@@ -1,4 +1,5 @@
 # Effective Python
+Effective Python这个本书的源码，中文名：编写高质量python代码的59个有效方法
 
 Hello! You've reached the official source code repository for _Effective Python_. To learn more about the book or contact the author, please [visit the official website](http://www.effectivepython.com).
 
